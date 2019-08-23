@@ -1,2 +1,2 @@
 # git-github
-starter
+This is for tutorial purposes.
